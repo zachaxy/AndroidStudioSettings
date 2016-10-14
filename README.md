@@ -2,6 +2,7 @@
 个性化Android studio 设置,编程更愉悦!
 
 已有的特性:
+
 1. 背景护眼色
 1. relax your eyes 主题
 1. 设置较大的字体
