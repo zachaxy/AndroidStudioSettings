@@ -12,3 +12,6 @@
 1. 代码提示不区分大小写
 1. 打开 studio 不自动打开上次离开时的工程
 1. 不同的log级别在logcat中显示的颜色加以区别
+
+## 新增 settings4Idea
+专门针对 idea 编译器的设置,其效果跟 Androi studio 类似
