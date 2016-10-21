@@ -15,3 +15,14 @@
 
 ## 新增 settings4Idea
 专门针对 idea 编译器的设置,其效果跟 Androi studio 类似
+
+## 新建文件时添加自定义头部
+settings -> Editor -> File and Code Templates        
+右侧栏:includes -> File Header  
+```
+/**
+ * Author: ${USER} 
+ *   Time: ${DATE}.
+ *   Desc:     
+ */
+```
