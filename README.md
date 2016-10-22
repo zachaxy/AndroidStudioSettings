@@ -21,8 +21,11 @@ settings -> Editor -> File and Code Templates
 右侧栏:includes -> File Header  
 ```
 /**
- * Author: ${USER} 
+ * Author: ${USER}
  *   Time: ${DATE}.
  *   Desc:     
  */
 ```
+
+## 设置 Logcat 的颜色
+settings -> Editor -> Android Logcat;对不同级别的 log 设置不同的颜色
