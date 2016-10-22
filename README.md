@@ -29,3 +29,14 @@ settings -> Editor -> File and Code Templates
 
 ## 设置 Logcat 的颜色
 settings -> Editor -> Android Logcat;对不同级别的 log 设置不同的颜色
+
+详细参数:   
+  
+|Log级别|	色值|
+|:-------|:------:|
+|VERBOSE|BBBBBB|
+|DEBUG|0070BB|
+|INFO|48BB31|
+|WARN|BBBB23|
+|ERROR|FF0006|
+|ASSERT|8F0005|
